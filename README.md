@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yung777
+- 👋 Hi, I’m @Muhamm3_d
 - 👀 I’m interested in Python and mostly everything connected to Laptops
 - 🌱 I’m currently learning Python
 - 💞️ I’m totally new and don't know anything
