@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Muhamm3_d
-- 👀 I’m interested in Python and mostly everything connected to Laptops
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m @Muhammad
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning HTML
 - 💞️ I’m totally new and don't know anything
-- 📫 How to reach me... Yung#3636 on Discord
 
 <!---
 Yung777/Yung777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
